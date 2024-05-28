@@ -4,3 +4,4 @@ matplotlib==3.8.4
 pandas==2.2.2
 ipykernel==6.29.4
 category_encoders==2.6.3
+seaborn==0.11.2
